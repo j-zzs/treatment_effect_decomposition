@@ -1,0 +1,10 @@
+CATE/output/
+decomposition/results/
+policy_exercise/output/
+robustness/output/
+data_overview/output/
+simulation/results/constant_SE/
+simulation/results/functional_SE/
+simpler-methods/blp_grf.tex
+simpler-methods/cate_qunantiles.tex
+
